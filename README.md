@@ -13,7 +13,7 @@
 ## 알고리즘
 - Greedy
 - DFS/BFS
-- 정렬
+- [정렬](https://github.com/CodingTest-repo/DataDtructure-Algorithm/blob/main/%EC%A0%95%EB%A0%AC/%EC%A0%95%EB%A0%AC.md)
    - [퀵정렬](https://github.com/CodingTest-repo/Coding-Test/blob/main/%EC%A0%95%EB%A0%AC/%ED%80%B5%EC%A0%95%EB%A0%AC.py)
 - 이진탐색
 - DP/백트래킹
