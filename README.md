@@ -16,7 +16,7 @@
 - [정렬](https://github.com/CodingTest-repo/DataDtructure-Algorithm/blob/main/%EC%A0%95%EB%A0%AC/%EC%A0%95%EB%A0%AC.md)
    - [퀵정렬](https://github.com/CodingTest-repo/Coding-Test/blob/main/%EC%A0%95%EB%A0%AC/%ED%80%B5%EC%A0%95%EB%A0%AC.py)
 - 이진탐색
-- DP/백트래킹
+- [DP/백트래킹] (https://github.com/CodingTest-repo/DataDtructure-Algorithm/blob/000b36a85c2b4baf25202e442146e90a4ad97395/DP/README.md)
 - 최단경로
 - Graph
 - Math
